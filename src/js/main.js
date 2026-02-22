@@ -1,1 +1,1 @@
-document.getElementById("texto").innerHTML="Meu Primeiro Texto em <b>Javascript</b>!";
+document.getElementById("texto").innerHTML="Meu Primeiro Texto em <b>Javascript</b>! </br> Com document.ElementByID.";
