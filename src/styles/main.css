@@ -16,4 +16,13 @@ header {
 
 header, h1 {
     font-weight: 700;
+    color: #4B2E2B;
+}
+
+#texto {
+    color: black;
+}
+
+#texto--js {
+    color: rgb(255, 191, 0);
 }
